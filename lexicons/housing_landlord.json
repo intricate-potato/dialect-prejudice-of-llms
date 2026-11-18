@@ -1,0 +1,23 @@
+{
+  "positive": [
+    "reliable",
+    "honest",
+    "stable",
+    "capable",
+    "responsible",
+    "trustworthy",
+    "dependable"
+  ],
+  "negative": [
+    "risky",
+    "corrupt",
+    "shady",
+    "lazy",
+    "unstable",
+    "unreliable",
+    "irresponsible",
+    "troublesome",
+    "problematic",
+    "dishonest"
+  ]
+}

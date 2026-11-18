@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the paper."
+title: "Companion repository: From a River in Gilead to the Inference Distributions of Large Language Models"
+authors:
+  - family-names: Abdullah
+    given-names: Chowdhury Mohammad
+    affiliation: Dalhousie University
+  - family-names: Orji
+    given-names: Rita
+    affiliation: Dalhousie University
+preferred-citation:
+  type: conference-paper
+  title: "From a River in Gilead to the Inference Distributions of Large Language Models: Covert Dialect Bias and Linguistic Profiling at Scale"
+  authors:
+    - family-names: Abdullah
+      given-names: Chowdhury Mohammad
+    - family-names: Orji
+      given-names: Rita
+  collection-title: "Proceedings of the Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)"
+  conference:
+    name: "AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)"
+    city: "Malmö"
+    country: SE
+  year: 2026

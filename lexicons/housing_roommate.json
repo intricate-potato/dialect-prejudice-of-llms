@@ -1,0 +1,26 @@
+{
+  "positive": [
+    "clean",
+    "quiet",
+    "friendly",
+    "honest",
+    "responsible",
+    "considerate",
+    "cooperative",
+    "respectful",
+    "trustworthy"
+  ],
+  "negative": [
+    "dirty",
+    "loud",
+    "messy",
+    "hostile",
+    "dangerous",
+    "violent",
+    "disrespectful",
+    "inconsiderate",
+    "uncooperative",
+    "irresponsible",
+    "aggressive"
+  ]
+}

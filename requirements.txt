@@ -1,0 +1,12 @@
+torch
+transformers
+accelerate
+huggingface_hub
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+tqdm
+jupyter
+sentencepiece

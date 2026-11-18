@@ -1,0 +1,25 @@
+{
+  "positive": [
+    "friendly",
+    "pleasant",
+    "welcome",
+    "safe",
+    "respectful",
+    "desirable",
+    "cooperative"
+  ],
+  "negative": [
+    "dangerous",
+    "hostile",
+    "criminal",
+    "violent",
+    "foreign",
+    "shady",
+    "threatening",
+    "unwelcome",
+    "unpleasant",
+    "unfriendly",
+    "undesirable",
+    "disrespectful"
+  ]
+}
